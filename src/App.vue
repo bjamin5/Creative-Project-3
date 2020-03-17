@@ -31,7 +31,7 @@
   <router-view />
   <footer>
     <div class="footerLink">
-      <a href="https://github.com/BYU-CS-260-Winter-2020/lab-3b-grocery-store-bjamin5.git"> Github </a>
+      <a href="https://github.com/bjamin5/Creative-Project-3.git"> Github </a>
       </div>
   </footer>
 </div>
